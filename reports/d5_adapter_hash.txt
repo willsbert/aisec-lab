@@ -1,0 +1,6 @@
+== 校验对象：tools/lora_adapter（3 个文件）==
+ec5c2c8cdeed8d2814272ecd0c7c5d287d7f482cfa5274de472ba7bf7d508455  tools/lora_adapter/README.md  
+3b86bccce025278a9dc04507708947c0ae7b7cc2320f0bad116a535d58901d2b  tools/lora_adapter/adapter_config.json  
+eae0db870daa53aa814a0eb5b7712cfaceaa42e7d5f900f1bc4d0276a455d4e3  tools/lora_adapter/adapter_model.safetensors  
+
+（未提供参考 hash；如需比对，追加第二个参数：python hash_check.py <路径> <sha256>）
